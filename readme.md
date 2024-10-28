@@ -1,6 +1,6 @@
-# Smart Sorting Machine
+# Reverse Vending Machine
 
-This project is a microcontroller-based Smart Sorting Machine, which assists users in sorting plastic and non-plastic items, saving relevant data, and providing a user-friendly interface with an LCD, keypad, and sensors. It uses libraries for keypad input, LCD display, servos for mechanical sorting, and HX711 for weight measurement.
+This project is a microcontroller-based Reverse Vending Machine, which assists users in sorting plastic and non-plastic items, saving relevant data, and providing a user-friendly interface with an LCD, keypad, and sensors. It uses libraries for keypad input, LCD display, servos for mechanical sorting, and HX711 for weight measurement.
 
 ## Features
 
